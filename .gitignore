@@ -1,0 +1,16 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+dataset_cross
+dataset_dot
+dataset_final
+img_align_celeba_main
+archive.zip
+dataset_cross.zip
